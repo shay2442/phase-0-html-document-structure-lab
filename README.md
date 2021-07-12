@@ -1,4 +1,5 @@
-# Document Structure Continued
+
+<!DOCTYPE>
 
 ## Learning Goals
 
